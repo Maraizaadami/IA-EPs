@@ -1,0 +1,15 @@
+Instância 	Temperatura	DordeCabeça	DornosOlhos	Náuseas		Cansaço 	Diagnóstico
+Paciente1 	40 		SIM 		SIM 		NÃO 		SIM 		DENGUE
+Paciente2 	36 		NÃO 		NÃO 		NÃO 		SIM 		OUTRA
+Paciente3 	35 		NÃO 		NÃO 		NÃO 		SIM 		OUTRA
+Paciente4 	39 		SIM 		SIM 		SIM 		SIM 		DENGUE
+Paciente5 	34 		NÃO 		SIM 		SIM 		SIM 		OUTRA
+Paciente6 	37 		NÃO 		SIM 		NÃO 		SIM 		OUTRA
+Paciente7 	36 		SIM 		SIM 		SIM 		SIM 		DENGUE
+Paciente8 	38 		NÃO 		SIM 		NÃO 		SIM 		OUTRA
+Paciente9 	39 		SIM 		SIM 		SIM 		NÃO 		DENGUE
+Paciente10	37 		SIM 		NÃO 		NÃO 		NÃO 		OUTRA
+Paciente11	39 		SIM 		SIM 		NÃO 		SIM 		DENGUE
+Paciente12 	35		NÃO 		NÃO 		SIM 		NÃO 		DENGUE
+Paciente13 	35 		NÃO 		NÃO 		NÃO 		SIM 		OUTRA
+Paciente14 	38 		SIM 		SIM 		NÃO 		SIM 		OUTRA

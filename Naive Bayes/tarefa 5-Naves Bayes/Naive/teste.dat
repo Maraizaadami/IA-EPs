@@ -1,0 +1,5 @@
+Instância 	Temperatura	DordeCabeça	Dornosolhos	Náuseas		Cansaço 	Diagnóstico
+Paciente11	39 		SIM 		SIM 		NÃO 		SIM 		DENGUE
+Paciente12 	35		NÃO 		NÃO 		SIM 		NÃO 		DENGUE
+Paciente13 	35 		NÃO 		NÃO 		NÃO 		SIM 		OUTRA
+Paciente14 	38 		SIM 		SIM 		NÃO 		SIM 		OUTRA
